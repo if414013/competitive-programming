@@ -1,5 +1,1 @@
-Competitive Programming..
-
-
-
-hahahahahaha....
+My Competitive Programming Repo
